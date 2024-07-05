@@ -1,4 +1,4 @@
-# Akıllı Otopark Yönetim Sistemi
+# Akıllı Otopark Yönetim Sistemi (ParkSync)
 
 Bu proje, ESP32-CAM modülleri ve derin öğrenme modelleri (YOLO ve CNN) kullanarak park yerlerini algılayan ve sınıflandıran bir mobil uygulama geliştirmeyi amaçlamaktadır. Sistem, park yeri müsaitlik durumunu gerçek zamanlı olarak sağlayarak sürücülerin uygun yerleri bulmasını kolaylaştırır ve otopark yönetim verimliliğini artırır.
 
